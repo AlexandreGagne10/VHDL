@@ -1,0 +1,8 @@
+set_property PACKAGE_PIN U16 [get_ports ld0]
+set_property PACKAGE_PIN W16 [get_ports sw0]
+set_property PACKAGE_PIN V16 [get_ports sw1]
+set_property PACKAGE_PIN V17 [get_ports sw2]
+set_property IOSTANDARD LVTTL [get_ports sw2]
+set_property IOSTANDARD LVTTL [get_ports sw1]
+set_property IOSTANDARD LVTTL [get_ports sw0]
+set_property IOSTANDARD LVTTL [get_ports ld0]
